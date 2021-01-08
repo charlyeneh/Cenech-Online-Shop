@@ -1,7 +1,7 @@
 # Cenech-Online-Shop
 This project is a Microverse first capstone solo project aimed at building a responsive online shop after finishing the first Main Technical Curriculum.
 
-![Screenshot](https://user-images.githubusercontent.com/68623189/102411485-61b20d80-3fc8-11eb-921d-a78e6116e798.png)
+![Screenshot](https://user-.images.githubusercontent.com/68623189/102411485-61b20d80-3fc8-11eb-921d-a78e6116e798.png)
 
 ## Built With
 
@@ -12,14 +12,13 @@ This project is a Microverse first capstone solo project aimed at building a res
 
 ## Live Demo
 
-- https://franklinben23.github.io/news-week/
+- https://charlyeneh.github.io/Cenech-Online-Shop/
 
 ## Authors
 
 👤 **Authors**
 Charles Chukwunweike Eneh
 
-- Facebook:[]()
 - Twitter: [@ProgrammerBaby](https://twitter.com/ProgrammerBaby?s=09)
 - GitHup: [@charlyeneh](https://github.com/charlyeneh)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
